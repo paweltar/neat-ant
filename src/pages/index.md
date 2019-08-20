@@ -1,8 +1,6 @@
 ---
 title: Hello hello
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+header: Hi. Test test test.
 menus:
   main:
     title: Home
