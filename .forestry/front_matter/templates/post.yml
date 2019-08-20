@@ -52,6 +52,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/hello-hello.md
 - src/pages/posts/veroeros.md
 - src/pages/posts/ultricies.md
 - src/pages/posts/tempus.md
